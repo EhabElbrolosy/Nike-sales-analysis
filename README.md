@@ -54,7 +54,7 @@ Questions (KPIs)
 
 ------------
 
-Full project
+Interactive dashboard 
 
 check the interactive dashboard on power BI services:
 https://app.powerbi.com/groups/me/reports/17e59acc-8e4e-42b2-a26a-7053c952ed31/be5ff84475d9444a201c?experience=power-bi
